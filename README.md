@@ -4,6 +4,7 @@
 - **Run a Node.js Server: ** node [server name].js
 
 **Status Codes:**
+-----------------------------
 - 200 - Ok
 - 301 - Resouce moved
 - 404 - Error
